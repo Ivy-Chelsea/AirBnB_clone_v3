@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Ivy Chelsea - [Github](https://github.com/Ivy-Chelsea)  
-Adelakun Kehinde - [Github](https://github.com/iamkenny-dev)
+Adelakun Kehinde -- [Github](https://github.com/iamkenny-dev)
 
 Second part of Airbnb: Joann Vuong
 ## License
